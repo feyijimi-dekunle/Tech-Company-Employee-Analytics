@@ -66,5 +66,5 @@ Based on the analysis, the following recommendations can be considered:
 ## Purpose of the Project
 This project demonstrates the use of Excel for workforce analytics, data visualization, and insight communication. It is suitable for academic submission and data analytics portfolio presentation.
 
-I am open to collaborate on data analysis, statistical analysis, and visualization related projects. You can reach me via email (feyimat@yahoo.com)
+I am open to collaborate on data analysis, statistical analysis, and visualization related projects. You can reach me via (feyimat@yahoo.com).
 ---
