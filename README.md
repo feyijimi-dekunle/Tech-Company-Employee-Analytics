@@ -46,6 +46,15 @@ This project answers the following five business-focused questions:
 
 ---
 
+## Recommendations
+Based on the analysis, the following recommendations can be considered:
+
+- Departments with lower average salaries may benefit from a review of compensation structures to ensure market competitiveness and employee retention.
+- The positive relationship between experience and salary suggests the need for structured career progression and salary growth frameworks.
+- Workforce age distribution indicates an opportunity to invest in targeted training and development programs for early-career employees.
+- Departments with high experience concentration should implement knowledge transfer and mentorship programs to retain institutional expertise.
+
+
 ## Project Structure
 - `tech_company_employee_data_1000.xlsx` – Dataset and analysis file  
 - `Pivot Tables` – Tables supporting analytical questions  
@@ -57,4 +66,5 @@ This project answers the following five business-focused questions:
 ## Purpose of the Project
 This project demonstrates the use of Excel for workforce analytics, data visualization, and insight communication. It is suitable for academic submission and data analytics portfolio presentation.
 
+I am open to collaborate on data analysis, statistical analysis, and visualization related projects. You can reach me via email (feyimat@yahoo.com)
 ---
