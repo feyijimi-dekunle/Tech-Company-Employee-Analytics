@@ -1,4 +1,7 @@
 # Tech-Company-Employee-Analytics
+
+![Image](https://github.com/user-attachments/assets/1fe40a9d-d8cd-4dbe-ae1e-c2c0652f2173)
+
 This repository contains an Excel-based analysis of a technology company’s employee dataset, focusing on workforce distribution, salary trends, experience levels, and age demographics. The project uses pivot tables, charts, and dashboards to generate clear business insights and support data-driven decision-making.
 
 The analysis demonstrates practical data cleaning, pivot table analysis, and data visualization skills suitable for academic and portfolio purposes.
